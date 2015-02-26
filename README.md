@@ -7,5 +7,5 @@ add description here
 | ------------- | ------------- |
 | Driver  | [Paul Stacey](https://github.com/pgstacey)  |
 | Approvers  | ?  |
-| Contributors | [Sarah Pearson](https://github.com/sarahpearson |
+| Contributors | [Sarah Pearson](https://github.com/sarahpearson) |
 | Informed | Add yourselves here |
