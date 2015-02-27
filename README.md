@@ -6,6 +6,6 @@ add description here
 | Role  | Person |
 | ------------- | ------------- |
 | Driver  | [Paul Stacey](https://github.com/pgstacey)  |
-| Approvers  | ?  |
+| Approvers  | [Paul Stacey]  |
 | Contributors | [Sarah Pearson](https://github.com/sarahpearson), [Jane Park](https://github.com/janeatcc) |
 | Informed | Add yourselves here |
