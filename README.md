@@ -6,6 +6,6 @@ add description here
 | Role  | Person |
 | ------------- | ------------- |
 | Driver  | [Paul Stacey](https://github.com/pgstacey)  |
-| Approvers  | [Paul Stacey](https://github.com/pgstacey)  |
-| Contributors | [Sarah Pearson](https://github.com/sarahpearson), [Jane Park](https://github.com/janeatcc) |
+| Accountable  | [Paul Stacey](https://github.com/pgstacey)  |
+| Consulted | [Sarah Pearson](https://github.com/sarahpearson), [Jane Park](https://github.com/janeatcc) |
 | Informed | [Cable Green](https://github.com/cablegreen)|
