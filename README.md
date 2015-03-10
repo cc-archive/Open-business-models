@@ -1,5 +1,5 @@
 # Open-business-models
-add description here
+Effort to analyze and demonstrate how CC licenses are used in existing business and revenue models, and help businesses, nonprofits, and governments create their own open business models. 
 
 ## Who's working on it at Creative Commons?
 
