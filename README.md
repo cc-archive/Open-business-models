@@ -15,5 +15,5 @@ Project includes:
 | ------------- | ------------- |
 | Driver  | [Paul Stacey](https://github.com/pgstacey)  |
 | Accountable  | [Paul Stacey](https://github.com/pgstacey)  |
-| Consulted | [Sarah Pearson](https://github.com/sarahpearson), [Jane Park](https://github.com/janeatcc) |
+| Consulted | [Sarah Pearson](https://github.com/sarahpearson), [Jane Park](https://github.com/janeatcc) [Diane Peters] (https://github.com/peterspdx)|
 | Informed | [Cable Green](https://github.com/cablegreen)|
